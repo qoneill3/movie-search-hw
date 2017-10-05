@@ -1,0 +1,23 @@
+{
+  "name": "requesting-with-node",
+  "version": "1.0.0",
+  "description": "Tonight you need to use Node.js to make a request to **OMDB**.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/den-wdi-2/requesting-with-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/den-wdi-2/requesting-with-node/issues"
+  },
+  "homepage": "https://github.com/den-wdi-2/requesting-with-node#readme",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
